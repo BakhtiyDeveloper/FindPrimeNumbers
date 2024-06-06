@@ -1,5 +1,7 @@
 ﻿using System;
 
+Console.WriteLine("Welcome to project FindPrimeNumbers");
+
 while (true)
 {
     Console.Write("Enter value: ");
