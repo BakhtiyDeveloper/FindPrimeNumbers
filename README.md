@@ -1,4 +1,4 @@
-> # Welcome to project FindPrimeNumbers
+> **# Welcome to project FindPrimeNumbers**
 
 ![prime numbers img](https://www.texnoman.uz/uploads/blogs/f3b2c1481a00e20dd978bc8de78d25c2.png)
 
@@ -17,6 +17,8 @@
 
 2. If the number is 1 or less, the program outputs that the number is not prime. Otherwise, the program sets the boolean variable prime to true and checks the divisors of the number entered through the for loop.
 
-![if 1 or less not prime](image-1.png)
+![if 1 or less not prime](image-2.png)
 
-3. 
+3. If the number is divided by some value, the parent variable is changed to false and the loop is terminated. If the number is prime, the program uses a while loop to find the next three primes.
+
+![while loop](image-3.png)
