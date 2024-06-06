@@ -13,12 +13,25 @@
 
 1. Input and output section
 
-![input/output](image.png)
+![input/output](/images/image.png)
 
 2. If the number is 1 or less, the program outputs that the number is not prime. Otherwise, the program sets the boolean variable prime to true and checks the divisors of the number entered through the for loop.
 
-![if 1 or less not prime](image-2.png)
+![if 1 or less not prime](/images/image-2.png)
 
+!
 3. If the number is divided by some value, the parent variable is changed to false and the loop is terminated. If the number is prime, the program uses a while loop to find the next three primes.
 
-![while loop](image-3.png)
+![while loop](/images/image-3.png)
+
+4. The **"while loop"** will run until the count variable is **"count"** to 3. In each iteration, the variable **"num"** represents the next number and checks whether it is prime or not.
+
+![While loop](/images/image.png)
+
+5. If the value in the **"num"** variable is prime, it will be displayed and the **"count"** variable will also be incremented by 1. The variable **"num"** is incremented by 1 in each iteration. At the end of the program, it asks the user whether or not to use the program again.
+
+![the end](/images/image5.png)
+
+6. Result 
+
+![alt text](/images/image6.png)
